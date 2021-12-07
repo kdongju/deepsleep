@@ -1,0 +1,3 @@
+https://www.arduino.cc/en/main/OldSoftwareReleases
+
+1.8.12버전 다운로드
